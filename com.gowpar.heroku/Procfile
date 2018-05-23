@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* com.gowpar.com.gowpar.heroku.heroku.Main
